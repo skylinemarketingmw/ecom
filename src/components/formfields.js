@@ -1,4 +1,3 @@
-
 import React, { Component } from 'react';
 
 export class FormInput extends Component {
